@@ -17,6 +17,7 @@ Persönliches Second Brain: versioniertes Wissens- und Arbeitssystem, gepflegt m
 | `07-familie/` | Familie (P0, sensibel) |
 | `08-it-admin/` | IT und Admin |
 | `09-lernen-wissen/` | Lernen, Wissen, Kurse |
+| `10-netzwerk/` | Kontaktnetzwerk, gruppiert nach Business-Kontext (P0, sensibel) |
 | `90-archive/` | Abgeschlossene oder veraltete Inhalte |
 | `docs/` | Architektur, Boundary, Sync |
 | `tools/` | Automation, Scripts |

@@ -36,6 +36,7 @@ skills/                Skill-Definitionen (Claude sucht hier nach SKILL.md)
 07-familie/             Familie
 08-it-admin/            IT und Admin
 09-lernen-wissen/       Lernen, Wissen, Kurse
+10-netzwerk/            Kontaktnetzwerk, gruppiert nach Business-Kontext
 90-archive/             abgeschlossene oder veraltete Inhalte
 docs/                   Architektur, Boundary, Sync (falls benötigt)
 tools/                  Automation, Scripts (falls benötigt)
@@ -61,7 +62,7 @@ Siehe `skills/_meta/voice-rules.md`. Gilt für jeden Output, den Claude in Alexa
 
 Default ist schreibbar in GitHub, ohne Nachfrage.
 
-Für sensible Themen (Geld, Verträge, private Korrespondenz, Gesundheit, alles unter 04-finanzen, 05-recht-vertraege) gilt: GitHub schreiben ist ok, aber jedes Rausgeben (Mail, Nachricht) und jeder Notion-Push braucht Freigabe pro Vorgang, bevor etwas den Kreis verlässt.
+Für sensible Themen (Geld, Verträge, private Korrespondenz, Gesundheit, alles unter 04-finanzen, 05-recht-vertraege, 07-familie, 10-netzwerk) gilt: GitHub schreiben ist ok, aber jedes Rausgeben (Mail, Nachricht) und jeder Notion-Push braucht Freigabe pro Vorgang, bevor etwas den Kreis verlässt.
 
 Boundary-Klassen pro Skill, siehe jeweilige SKILL.md:
 
