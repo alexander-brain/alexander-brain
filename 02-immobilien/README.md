@@ -3,6 +3,7 @@
 Immobilien: Objekte, Verwaltung, Vermietung, Bewertungen. Boundary: P1, Standard.
 
 - `data/` Wahrheitsdaten: Objekte, Kennzahlen, Verträge (falls nicht in 05-recht-vertraege)
+  - `data/meetings/` Meetingprotokolle (Fireflies Summary + Transkript zusammengeführt), Format `YYYY-MM-DD-thema.md`
 - `briefings/` datierte Statusanalysen
 - `decisions/` wichtige Weichenstellungen
 

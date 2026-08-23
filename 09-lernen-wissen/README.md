@@ -3,6 +3,7 @@
 Kurse, Bücher, Skills, Notizen zum Weiterlernen. Boundary: P1, Standard.
 
 - `data/` Wahrheitsdaten: Kursliste, Notizen, Quellen
+  - `data/meetings/` Meetingprotokolle (Fireflies Summary + Transkript zusammengeführt), Format `YYYY-MM-DD-thema.md`
 - `briefings/` datierte Statusanalysen
 - `decisions/` wichtige Weichenstellungen
 

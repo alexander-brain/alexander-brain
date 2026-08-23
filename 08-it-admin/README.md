@@ -3,6 +3,7 @@
 IT und Admin: Zugänge, Systeme, Abos, laufende Verwaltung. Boundary: P1, Standard.
 
 - `data/` Wahrheitsdaten: Systeme, Abos, Zuständigkeiten (keine Passwörter oder Secrets)
+  - `data/meetings/` Meetingprotokolle (Fireflies Summary + Transkript zusammengeführt), Format `YYYY-MM-DD-thema.md`
 - `briefings/` datierte Statusanalysen
 - `decisions/` wichtige Weichenstellungen
 
